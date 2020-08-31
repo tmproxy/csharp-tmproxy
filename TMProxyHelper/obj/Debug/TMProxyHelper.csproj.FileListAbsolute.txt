@@ -1,0 +1,9 @@
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\bin\Debug\TMProxyHelper.dll
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\bin\Debug\TMProxyHelper.pdb
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\obj\Debug\TMProxyHelper.csprojAssemblyReference.cache
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\obj\Debug\TMProxyHelper.csproj.CoreCompileInputs.cache
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\obj\Debug\TMProxyHelper.csproj.CopyComplete
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\obj\Debug\TMProxyHelper.dll
+C:\Users\Mai Canh Fb\source\TMProxyHelper\TMProxyHelper\obj\Debug\TMProxyHelper.pdb
